@@ -78,4 +78,3 @@ This notebook implements:
 ## 👤 Author
 
 **Tanish Jain**  
-Analytics Club — Portfolio Optimization Project
